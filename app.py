@@ -55,17 +55,15 @@ def delete_definicion(termino):
 # ========================
 # Importar vistas
 # ========================
-from parcial_uno import parcial_uno
-from parcial_dos import parcial_dos
-from parcial_tres import parcial_tres
-from bloque_uno import bloque_uno
-from bloque_dos import bloque_dos
-from bloque_tres import bloque_tres
+from A1 import A1
+from A2 import A2
+from Examen2 import ExamenA2
+from ExamenA1 import ExamenA1
 
 # ========================
 # Configuración
 # ========================
-st.set_page_config(page_title="Diccionario Cálculo III", layout="centered")
+st.set_page_config(page_title="Bienvenido a Puma English ", layout="centered")
 
 # ========================
 # Menú lateral
@@ -73,21 +71,19 @@ st.set_page_config(page_title="Diccionario Cálculo III", layout="centered")
 menu = st.sidebar.radio(
     "Selecciona una vista:",
     [
-        "Diccionario", 
-        "Cálculo III Parcial I", 
-        "Cálculo III Parcial II", 
-        "Cálculo III Parcial III",
-        "Bloque 1",
-        "Bloque 2",
-        "Bloque 3"
+        "Diccionary", 
+        "A1", 
+        "A2",
+        "Examen A1",
+        "Examen A2"
     ]
 )
 
 # ===========================================================
 # VISTA DICCIONARIO
 # ===========================================================
-if menu == "Diccionario":
-    st.title("📘 Diccionario interactivo de Cálculo III")
+if menu == "Diccionary":
+    st.title("📘 Bienvenido a Puma English ")
 
     # BUSCADOR
     col1, col2 = st.columns([3, 1])
@@ -180,25 +176,20 @@ if menu == "Diccionario":
             st.dataframe(df, use_container_width=True)
 
 # ===========================================================
-# OTRAS VISTAS
+# Vistas A1 y A2
 # ===========================================================
-elif menu == "Cálculo III Parcial I":
-    parcial_uno.app()
+elif menu == "A1":
+    A1.app()
 
-elif menu == "Cálculo III Parcial II":
-    parcial_dos.app()
+elif menu == "A2":
+    A2.app()
 
-elif menu == "Cálculo III Parcial III":
-    parcial_tres.app()
 
 # ===========================================================
-# VISTAS DE BLOQUES
+# Vistas Examenes A1 y A2
 # ===========================================================
-elif menu == "Bloque 1":
-    bloque_uno.app()
+elif menu == "Examen A1":
+    ExamenA1.app()
 
-elif menu == "Bloque 2":
-    bloque_dos.app()
-
-elif menu == "Bloque 3":
-    bloque_tres.app()
+elif menu == "Examen A2":
+    ExamenA2.app()
