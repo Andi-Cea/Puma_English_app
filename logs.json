@@ -1,0 +1,222 @@
+[
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:24:14"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:24:58"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:25:40"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró A1",
+        "fecha": "2026-05-26 18:25:53"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:26:16"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:26:34"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:26:48"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:27:26"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:27:26"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:27:28"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:27:30"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:27:51"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:28:04"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:28:35"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:28:50"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Buscó: Basic adjectives for description",
+        "fecha": "2026-05-26 18:29:07"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Entró A2",
+        "fecha": "2026-05-26 18:29:15"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Entró A2",
+        "fecha": "2026-05-26 18:29:19"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:29:29"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:29:44"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:42:09"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:42:34"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:42:42"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:43:16"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:43:26"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:44:53"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:45:08"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:45:47"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:46:20"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Creó tarea ",
+        "fecha": "2026-05-26 18:46:31"
+    },
+    {
+        "usuario": "Ana",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 18:46:36"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 18:46:58"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró A1",
+        "fecha": "2026-05-26 18:47:17"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró A2",
+        "fecha": "2026-05-26 18:47:18"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A2",
+        "fecha": "2026-05-26 18:47:19"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 18:47:19"
+    },
+    {
+        "usuario": "alumno1",
+        "accion": "Cerró sesión",
+        "fecha": "2026-05-26 19:19:19"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 19:20:59"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 19:30:04"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 19:33:17"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Inicio sesión",
+        "fecha": "2026-05-26 19:46:30"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Entró A1",
+        "fecha": "2026-05-26 19:47:25"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Entró A2",
+        "fecha": "2026-05-26 19:47:26"
+    },
+    {
+        "usuario": "Andrea",
+        "accion": "Entró Examen A1",
+        "fecha": "2026-05-26 19:47:28"
+    }
+]

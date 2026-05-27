@@ -1,0 +1,29 @@
+{
+  "usuarios":[
+    {
+      "usuario":"Andrea",
+      "password":"1234",
+      "rol":"administrador"
+    },
+    {
+      "usuario":"Rix",
+      "password":"1234",
+      "rol":"administrador"
+    },
+    {
+      "usuario":"Sky",
+      "password":"1234",
+      "rol":"administrador"
+    },
+    {
+      "usuario":"Ana",
+      "password":"1234",
+      "rol":"maestra"
+    },
+    {
+      "usuario":"alumno1",
+      "password":"1111",
+      "rol":"alumno"
+    }
+  ]
+}
